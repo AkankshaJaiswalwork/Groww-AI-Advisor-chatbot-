@@ -1,0 +1,10 @@
+fastapi==0.110.0
+uvicorn==0.28.0
+streamlit==1.32.2
+redis==5.0.3
+APScheduler==3.10.4
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.9
+loguru==0.7.2
+langchain-groq==0.1.3

@@ -1,0 +1,68 @@
+{
+  "fund_id": "hdfc-mid-cap-opportunities-fund-direct-growth",
+  "fund_name": "HDFC Mid Cap Fund",
+  "category": "Equity",
+  "aum_cr": 94744.7175,
+  "expense_ratio": 0.77,
+  "returns_1y": 6.85,
+  "returns_3y": 23.7,
+  "returns_5y": 21.31,
+  "risk_level": "Very High",
+  "nav": 219.799,
+  "pe_ratio": 24.31,
+  "holdings": [
+    {
+      "company_name": "Max Financial Services Ltd.",
+      "allocation_percentage": 4.37,
+      "sector": "Financial"
+    },
+    {
+      "company_name": "AU Small Finance Bank Ltd.",
+      "allocation_percentage": 4.24,
+      "sector": "Financial"
+    },
+    {
+      "company_name": "The Federal Bank Ltd.",
+      "allocation_percentage": 3.87,
+      "sector": "Financial"
+    },
+    {
+      "company_name": "Glenmark Pharmaceuticals Ltd.",
+      "allocation_percentage": 3.41,
+      "sector": "Healthcare"
+    },
+    {
+      "company_name": "Indian Bank",
+      "allocation_percentage": 3.31,
+      "sector": "Financial"
+    },
+    {
+      "company_name": "Balkrishna Industries Ltd.",
+      "allocation_percentage": 3.25,
+      "sector": "Automobile"
+    },
+    {
+      "company_name": "Fortis Healthcare Ltd.",
+      "allocation_percentage": 3.16,
+      "sector": "Healthcare"
+    },
+    {
+      "company_name": "Vishal Mega Mart Ltd.",
+      "allocation_percentage": 2.92,
+      "sector": "Services"
+    },
+    {
+      "company_name": "Ipca Laboratories Ltd.",
+      "allocation_percentage": 2.92,
+      "sector": "Healthcare"
+    },
+    {
+      "company_name": "Cummins India Ltd.",
+      "allocation_percentage": 2.5,
+      "sector": "Capital Goods"
+    }
+  ],
+  "fund_manager": "Chirag Setalvad, Dhruv Muchhal",
+  "amc": "HDFC",
+  "last_updated": "2026-05-20T12:58:05.845134"
+}

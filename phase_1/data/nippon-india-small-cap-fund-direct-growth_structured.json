@@ -1,0 +1,68 @@
+{
+  "fund_id": "nippon-india-small-cap-fund-direct-growth",
+  "fund_name": "Nippon India Small Cap Fund",
+  "category": "Equity",
+  "aum_cr": 72672.9916,
+  "expense_ratio": 0.64,
+  "returns_1y": 5.21,
+  "returns_3y": 20.87,
+  "returns_5y": 22.17,
+  "risk_level": "Very High",
+  "nav": 193.4247,
+  "pe_ratio": 26.82,
+  "holdings": [
+    {
+      "company_name": "HDFC Bank Ltd.",
+      "allocation_percentage": 1.89,
+      "sector": "Financial"
+    },
+    {
+      "company_name": "Multi Commodity Exchange Of India Ltd.",
+      "allocation_percentage": 1.76,
+      "sector": "Services"
+    },
+    {
+      "company_name": "Bharat Heavy Electricals Ltd.",
+      "allocation_percentage": 1.67,
+      "sector": "Capital Goods"
+    },
+    {
+      "company_name": "TD Power Systems Ltd.",
+      "allocation_percentage": 1.54,
+      "sector": "Capital Goods"
+    },
+    {
+      "company_name": "Apar Industries Ltd.",
+      "allocation_percentage": 1.49,
+      "sector": "Consumer Staples"
+    },
+    {
+      "company_name": "Karur Vysya Bank Ltd.",
+      "allocation_percentage": 1.29,
+      "sector": "Financial"
+    },
+    {
+      "company_name": "Zydus Wellness Ltd.",
+      "allocation_percentage": 1.21,
+      "sector": "Consumer Staples"
+    },
+    {
+      "company_name": "NLC India Ltd.",
+      "allocation_percentage": 1.18,
+      "sector": "Energy"
+    },
+    {
+      "company_name": "State Bank of India",
+      "allocation_percentage": 1.18,
+      "sector": "Financial"
+    },
+    {
+      "company_name": "Kirloskar Brothers Ltd.",
+      "allocation_percentage": 1.08,
+      "sector": "Capital Goods"
+    }
+  ],
+  "fund_manager": "Samir Rachh, Amber Singhania, Kinjal Desai",
+  "amc": "RELIANCE",
+  "last_updated": "2026-05-20T12:58:05.525627"
+}

@@ -1,0 +1,68 @@
+{
+  "fund_id": "quant-small-cap-fund-direct-plan-growth",
+  "fund_name": "Quant Small Cap Fund",
+  "category": "Equity",
+  "aum_cr": 30373.6922,
+  "expense_ratio": 1.29,
+  "returns_1y": 4.08,
+  "returns_3y": 21.08,
+  "returns_5y": 21.52,
+  "risk_level": "Very High",
+  "nav": 284.429,
+  "pe_ratio": 21.45,
+  "holdings": [
+    {
+      "company_name": "Reliance Industries Ltd.",
+      "allocation_percentage": 9.469643,
+      "sector": "Energy"
+    },
+    {
+      "company_name": "RBL Bank Ltd.",
+      "allocation_percentage": 4.751129,
+      "sector": "Financial"
+    },
+    {
+      "company_name": "Adani Power Ltd.",
+      "allocation_percentage": 4.377338,
+      "sector": "Energy"
+    },
+    {
+      "company_name": "HFCL Ltd.",
+      "allocation_percentage": 3.437028,
+      "sector": "Communication"
+    },
+    {
+      "company_name": "Sun TV Network Ltd.",
+      "allocation_percentage": 2.9232,
+      "sector": "Services"
+    },
+    {
+      "company_name": "Piramal Finance Ltd.",
+      "allocation_percentage": 2.852821,
+      "sector": "Financial"
+    },
+    {
+      "company_name": "Anand Rathi Wealth Ltd.",
+      "allocation_percentage": 2.81431,
+      "sector": "Financial"
+    },
+    {
+      "company_name": "Aster DM Healthcare Ltd.",
+      "allocation_percentage": 2.609325,
+      "sector": "Healthcare"
+    },
+    {
+      "company_name": "Adani Green Energy Ltd.",
+      "allocation_percentage": 2.196367,
+      "sector": "Capital Goods"
+    },
+    {
+      "company_name": "Adani Enterprises Ltd.",
+      "allocation_percentage": 2.192025,
+      "sector": "Services"
+    }
+  ],
+  "fund_manager": "Varun Pattani, Ayusha Kumbhat, Sameer Kate, Sanjeev Sharma, Sandeep Tandon, Ankit A Pande, Yug Tibrewal",
+  "amc": "ESCORTS",
+  "last_updated": "2026-05-20T12:58:05.661454"
+}
