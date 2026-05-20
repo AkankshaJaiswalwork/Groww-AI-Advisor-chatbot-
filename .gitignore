@@ -1,1 +1,21 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache & build files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.chroma/
+
+# Environment files and credentials
+.env
+phase_3/.env
+*.env
+
+# Local temporary/structured data that can be regenerated
+phase_1/data/*_raw.json
+!phase_1/data/keep
 
